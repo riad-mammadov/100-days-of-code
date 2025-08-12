@@ -1,6 +1,6 @@
 # 💻 100 Days of Code – Python Bootcamp by Angela Yu
 
-This repository contains all the code, projects, solutions, and challenges from the Udemy course  
+This repository contains the code, projects, solutions, and challenges from the Udemy course  
 **[100 Days of Code: The Complete Python Pro Bootcamp for 2024](https://www.udemy.com/course/100-days-of-code/)** by Angela Yu.
 
 ---
@@ -39,12 +39,12 @@ It covers everything from basic syntax to web development, APIs, data science, a
 ## 📁 Folder Structure
 
 📝 **Note:**  
-I started this journey from **Day 17** due to prior proficiency in Python.  
+I started this journey from **Day 17** due to prior proficiency in Python. Certain lessons were intentionally skipped due to prior experience or misalignment with my learning objectives.
 From **Day 80 onwards**, all projects will be **self-coded** and stored in **separate repositories**.
 
 ```bash
 100-days-of-code/
 ├── Day 17
 ├── ...
-├── Day 80 
+├── Day 80
 ```
